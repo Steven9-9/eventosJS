@@ -1,0 +1,54 @@
+*{padding: 0px;
+    margin: 0px;
+}
+
+
+
+.lado1{
+    width: 45%;
+    height: 700px;
+    float: left;
+    margin: 40px;
+    border: 2px solid black;
+
+}
+
+.lado2{
+
+    width: 44%;
+    height: 700px;
+    float: right;
+    margin: 24px;
+    position: relative;
+    border: 2px solid black;
+    margin-top: 40px;
+
+}
+
+
+
+.lado1 input{
+    width: 35%;
+    height: 29px;
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+
+}
+
+.lado1 h1{
+
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 125px;
+
+}
+
+.registro{
+
+    width: 12%;
+    height: 32px;
+    border-radius: 50px;
+    margin-left: 237px;
+    margin-top: 51px;
+}
